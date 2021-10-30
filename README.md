@@ -2,6 +2,7 @@
 
 - 🔭 Hoje trabalho com DevOps
 - 🌱 Estudando Kubernetes 
+- ⚡ Curiosidade: Gosto de jogar basquete 🏀
 <div align="center">
   <a href="https://github.com/GaBriellcz">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GaBriellcz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
