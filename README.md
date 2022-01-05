@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Gabriel Cruz
 
-- 🔭 Hoje trabalho com DevOps
+- 🔭 Começando a trabalhar com DevOps
 - 🌱 Estudando Kubernetes 
 - ⚡ Curiosidade: Gosto de jogar basquete 🏀
 <div align="center">
